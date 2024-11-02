@@ -1,0 +1,11 @@
+.container {
+}
+
+.btn {
+  color: #fff;
+  width: 160px;
+  height: 35px;
+  background-color: rgb(68, 74, 155);
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
